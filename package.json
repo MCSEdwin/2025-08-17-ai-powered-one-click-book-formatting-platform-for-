@@ -1,0 +1,27 @@
+{
+  "name": "2025-08-17-ai-powered-one-click-book-formatting-platform-for-",
+  "version": "1.0.0",
+  "description": "AI-Powered One-Click Book Formatting Platform for Self-Publishers",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --live"
+  },
+  "keywords": [
+    "ai-generated",
+    "landing-page",
+    "idea2mvp",
+    "azure-openai",
+    "publishing-technology"
+  ],
+  "author": "Idea2MVP AI System",
+  "license": "MIT",
+  "homepage": "https://dailyidea.AIFirstPartner.com/daily-ideas/2025-08-17/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCSEdwin/2025-08-17-ai-powered-one-click-book-formatting-platform-for-.git"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
